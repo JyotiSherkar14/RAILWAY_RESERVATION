@@ -54,7 +54,7 @@ namespace railway
                             c++;
                         }
                         else
-                            MessageBox.Show("Failed to Create Password");
+                            MessageBox.Show("Password Not Created");
                     }
                     catch (Exception ex)
                     {
